@@ -41,6 +41,7 @@ The application simulates a local database using JSON files:
 - train.json: Maintains available train information, such as routes, schedules, and seating data.
   
 *Technologies and Libraries Used*
+
 Java Collections (ArrayList, Map)
 Java Streams (filter, map)
 BCrypt for Password Hashing: Ensures passwords are securely stored.
